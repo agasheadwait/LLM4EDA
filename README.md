@@ -29,11 +29,3 @@ LLM4EDA makes EDA and training exceptionally easy, providing a user-friendly int
   
 - **Predictions:** After training, the platform supports making predictions using the trained model.
 
-## Screenshots:
-
-![Prompts](path/to/screenshot1.png)
-*Prompts input for the agent*
-
-![Model Outputs](path/to/screenshot2.png)
-*Outputs by our Agent*
-
